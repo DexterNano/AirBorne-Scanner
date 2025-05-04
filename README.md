@@ -1,4 +1,4 @@
-# Detector de Dispositivos AirPlay Vulnerables
+# Detector de dispositivos AirPlay vulnerables a Airborne
 
 Este proyecto es un script en Python diseñado para descubrir dispositivos AirPlay en una red local y evaluar si son potencialmente vulnerables a ciertas versiones inseguras del protocolo AirPlay.
 
