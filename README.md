@@ -4,12 +4,11 @@ Este proyecto es un script en Python diseñado para descubrir dispositivos AirPl
 
 ## Uso
 
-1. Clona este repositorio o descarga el script.
-
-2. Instala las dependencias con:
+1. Instala las dependencias con:
 
    ```bash
    pip install -r requirements.txt
-3. (Opcional) Usa -o para marcar un fichero de salida .json   
+2. (Opcional) Usa -o para marcar un fichero de salida .json   
 
-   
+     ```bash
+   python scanner.py -o resultado.json
